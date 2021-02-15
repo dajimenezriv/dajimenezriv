@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dajimenezriv
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate in technology companies
+- 💞️ I’m looking to collaborate with technology companies
 - 📫 How to reach me: djimenezriv@gmail.com
 
 <!---
