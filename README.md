@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dajimenezriv
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Webpage with Bootstrap
+- 🌱 I’m currently learning Data Science with Kaggle.
 - 💞️ I’m looking to collaborate with technology companies
 - 📫 How to reach me: djimenezriv@gmail.com
 - Kaggle account: https://www.kaggle.com/dajimenezriv
