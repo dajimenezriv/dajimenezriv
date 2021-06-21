@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Webpage with Bootstrap
 - 💞️ I’m looking to collaborate with technology companies
 - 📫 How to reach me: djimenezriv@gmail.com
+- Kaggle account: https://www.kaggle.com/dajimenezriv
 
 <!---
 dajimenezriv/dajimenezriv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
