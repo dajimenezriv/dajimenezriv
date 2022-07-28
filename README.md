@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dajimenezriv
-- 👀 I’m interested in Software Engineering.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning React and Django.
 - 💞️ I’m looking to collaborate with technology companies.
 - 📫 How to reach me: djimenezriv@gmail.com
