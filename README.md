@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dajimenezriv
-- 👀 Frotend and Backend developer.
-- 🌱 I’m currently learning React, Typescript and Express.js.
+- 👀 Frotend developer.
+- 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate with technology companies.
 - 📫 How to reach me: djimenezriv@gmail.com
 
