@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dajimenezriv
-- 👀 Frotend developer.
-- 🌱 I’m currently learning React Native.
+- 👀 Becoming an Android developer.
+- 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate with technology companies.
 - 📫 How to reach me: djimenezriv@gmail.com
 
