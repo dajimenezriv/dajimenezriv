@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dajimenezriv
+- 👋 Hi, I’m Daniel Jiménez.
 - 👀 Becoming the best Frontend developer.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate with technology companies.
