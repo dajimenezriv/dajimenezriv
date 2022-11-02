@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dajimenezriv
-- 👀 Becoming an Android developer.
-- 🌱 I’m currently learning Kotlin.
+- 👀 Becoming the best Frontend developer.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate with technology companies.
 - 📫 How to reach me: djimenezriv@gmail.com
 
